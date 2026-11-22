@@ -1,0 +1,22 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# PyCharm
+.idea/
+
+# Dataset
+data/raw/
+data/processed/
+
+# Model files
+models/trained/
+models/checkpoints/
+
+# Generated results
+results/
