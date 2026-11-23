@@ -1,7 +1,7 @@
 
 # HandGestureRecognition
 
-A real-time hand gesture recognition system based on computer vision and machine learning.
+一个基于机器学习的实时手势识别系统
 
 ## Project Overview
 
